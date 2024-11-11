@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52c82867-57da-4f5b-8be2-062111c96734" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/burger-menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/close-menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/FiraSansCondensed-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/FiraSansCondensed-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/FiraSansCondensed-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/OpenSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Rubik-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Rubik-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mailbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/store/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/ProjectCard/ProjectCard.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/ProjectCard/ProjectCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/OpenDrawer/OpenDrawer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/OpenDrawer/OpenDrawer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/SortProjects/SortButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/SortProjects/SortButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/SortProjects/SortProjects.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/SortProjects/SortProjects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/SortProjects/api/categoriesService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/api/api-config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/types/api-get-types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/types/form-types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/ErrorMessage/ErrorMessage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/ErrorMessage/ErrorMessage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/Footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/LargeStyledInput/LargeStyledInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/Loader/Loader.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/Loader/Loader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/SectionName/SectionName.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/SectionName/SectionName.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/StyledInput/StyledInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/ProjectForm/ProjectForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/ProjectForm/ProjectForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/ProjectForm/api/feedbackService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/ProjectForm/utils/validadtionScheme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/ProjectsSection/ProjectsList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/ProjectsSection/ProjectsList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/ProjectsSection/ProjectsSection.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/ProjectsSection/ProjectsSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/widgets/ProjectsSection/api/projectsService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/fonts/GeistMonoVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/fonts/GeistVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2n5amSBMq8v0rEPhBeVub1ciUsg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Desktop/projects/test_work/cyberia/public/fonts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.format.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "C:\\Desktop\\projects\\test_work\\cyberia\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Desktop\projects\test_work\cyberia\public\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Desktop\projects\test_work\cyberia\src\features\SortProjects\api" />
+      <recent name="C:\Desktop\projects\test_work\cyberia\src\features\SortProjects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="format" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="format" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.format" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52c82867-57da-4f5b-8be2-062111c96734" name="Changes" comment="" />
+      <created>1728265552459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728265552459</updated>
+      <workItem from="1728265554406" duration="101000" />
+      <workItem from="1729938256364" duration="1586000" />
+      <workItem from="1729956691250" duration="1240000" />
+      <workItem from="1730353316680" duration="753000" />
+      <workItem from="1730436535565" duration="1000" />
+      <workItem from="1730531571174" duration="4973000" />
+      <workItem from="1730554663005" duration="2177000" />
+      <workItem from="1730649247802" duration="7161000" />
+      <workItem from="1730696794796" duration="4040000" />
+      <workItem from="1730726481319" duration="1333000" />
+      <workItem from="1730774243938" duration="2830000" />
+      <workItem from="1730794520380" duration="4411000" />
+      <workItem from="1730961681116" duration="3654000" />
+      <workItem from="1731073646662" duration="3642000" />
+      <workItem from="1731124855737" duration="5807000" />
+      <workItem from="1731131792249" duration="2470000" />
+      <workItem from="1731143500772" duration="643000" />
+      <workItem from="1731150091136" duration="219000" />
+      <workItem from="1731237315203" duration="156000" />
+      <workItem from="1731237951048" duration="7644000" />
+      <workItem from="1731253986055" duration="1157000" />
+      <workItem from="1731255847197" duration="898000" />
+      <workItem from="1731257460668" duration="3027000" />
+      <workItem from="1731260626560" duration="1435000" />
+      <workItem from="1731291901051" duration="4240000" />
+      <workItem from="1731301594900" duration="654000" />
+      <workItem from="1731302280814" duration="3437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

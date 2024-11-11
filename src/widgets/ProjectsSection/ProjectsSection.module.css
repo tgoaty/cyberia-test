@@ -1,0 +1,24 @@
+.wrapper {
+	margin-top: 70px;
+	padding-bottom: 60px;
+}
+
+.title {
+	margin-bottom: 50px;
+	font-family: var(--font-family), sans-serif;
+	font-weight: 600;
+	font-size: 48px;
+	color: #eef3ff;
+}
+
+@media (max-width: 376px) {
+	.wrapper {
+		margin-top: 32px;
+	}
+
+	.title {
+		font-family: var(--third-family), sans-serif;
+		font-weight: 500;
+		font-size: 21px;
+	}
+}

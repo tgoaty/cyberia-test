@@ -1,0 +1,13 @@
+.container {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 30px;
+	column-gap: 38px;
+}
+
+@media (max-width: 376px) {
+	.container {
+		row-gap: 20px;
+	}
+}

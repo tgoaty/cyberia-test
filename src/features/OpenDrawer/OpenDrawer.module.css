@@ -1,0 +1,10 @@
+.drawer--box {
+	padding: 42px 24px;
+	background-color: #24252f;
+	min-height: 100vh;
+}
+
+.close--icon--wrapper {
+	display: flex;
+	justify-content: flex-end;
+}

@@ -1,0 +1,9 @@
+.server-error {
+	color: #f5222d;
+	padding: 15px;
+	border: 1px solid #f5222d;
+	border-radius: 5px;
+	text-align: center;
+	font-family: var(--third-family), sans-serif;
+	margin-bottom: 40px;
+}

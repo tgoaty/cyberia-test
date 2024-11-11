@@ -1,0 +1,33 @@
+.button {
+	cursor: pointer;
+	border: none;
+	border-radius: 7px;
+	padding: 10px 29px;
+	height: 50px;
+	box-shadow: 8px 15px 29px 0 rgba(23, 27, 44, 0.41);
+	background: #313341;
+	font-family: var(--font-family), sans-serif;
+	font-weight: 400;
+	font-size: 24px;
+	color: #eef3ff;
+	transition:
+		background 0.1s,
+		scale 0.1s;
+
+	&:hover {
+		background: #2d76f9;
+	}
+
+	&:active {
+		scale: 0.98;
+	}
+}
+
+@media (max-width: 376px) {
+	.button {
+		padding: 10px 0px;
+		height: 33px;
+		width: 158px;
+		font-size: 12px;
+	}
+}
